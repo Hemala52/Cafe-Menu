@@ -19,7 +19,19 @@ This project showcases my learning experience in using CSS to design a menu page
 ### Installation
 
 1. **Clone the Repository**
+ ```
+   https://github.com/Hemala52/Cafe-Menu.git
+  ````
 
-   ```bash
-   git clone https://github.com//cafe-menu-css.git
-   cd cafe-menu-css
+2. **Open the Project**
+
+   Open the project folder in your text editor.
+
+3. **View the Menu Page**
+
+   Open `index.html` in your browser to see the styled menu page.
+
+## Files
+
+- `index.html`: The main HTML file.
+- `style.css`: The CSS file with all the styles.
